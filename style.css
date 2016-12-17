@@ -1,0 +1,14 @@
+.container-fluid{
+  height: 300px;
+  background-color: pink;
+}
+.left-side{
+background-color: green;
+  height: 150px;
+}
+/*right side css */
+.right-side{
+background-color: white;
+height: 150px;
+  
+}
